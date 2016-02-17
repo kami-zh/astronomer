@@ -1,1 +1,1 @@
-# Stargazer
+# Astronomer
